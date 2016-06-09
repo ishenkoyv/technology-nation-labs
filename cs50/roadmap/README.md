@@ -1,94 +1,34 @@
 # Рекомендації по продовженню навчання, після закінчення курсу **Harvard CS50**
+Після проходження курсу CS50 у студентів повинні сформуватися певні навички програмування.
+Для відстеження історичних змін у коді, поширення своїх напрацювань з іншими студентами, освоєння роботи з GIT, пропонується викладати свої проблемсети на github. Додатково до репозітарія з кодами проблемсетів, рекомендується сторити статичний блог на github.io. У блозі потрібно публікувати проблеми, з якими студент стикається під час освоєння нових технологій/навичків. Один з розділів буде містити резюме.
 
-CS50 надзвичайно ефективний курс, що допомагає закрити білі плями в базовій освіті прграмміста. Він покриває одразу ряд тем. І його можна рекомендувати як новачкам (але які мають деякий досвід в програмуванні), так і молодшим ІТ-спеціалістам, та спеціалістам суміжних спеціальностей.
+## Англійська Мова
+В умовах глобалізації англійська мова є необхідністю і її вивчання повинно відбуватися паралельно з вивченням технологій і мов програмування.
+ - [LinguaLeo](http://lingualeo.com/)
+ - [DuoLingo](https://uk.duolingo.com/)
 
-## Платформи для пошуку курсів
+## Personal Branding
+Усе навчання і практична діяльність студентів під час і після закінчення курсу повинні бути спрямовані на побудову репутації ІТ-спеціаліста.
+Це включає в себе, окрім практичного досвіду, формування інформаційоного поля і репутації у мережі.
+Сайти, на які варто звернути увагу:
+ - [github.com](https://github.com/)
+ - [linkedin.com](https://www.linkedin.com/)
+ - [stackoverflow.com](http://stackoverflow.com/)
 
-- https://www.edx.org
-- https://www.udacity.com
-- https://www.coursera.org
-- http://ocw.mit.edu
-- https://www.futurelearn.com
-- https://www.codecademy.com
+Відповідно до останнього [аналізу ринку від DOU](https://dou.ua/lenta/articles/juniors-2015/), сайти вакансій втратили свої позиції з пошуку персоналу і на перші місця виходять рекомендації, соціальні мережі і спеціалізовані події. Personal Branding є основою для створення умов, щоб вас шукали і рекомендували, як спеціаліста, а не ви шукали роботу.
 
-## Наступні кроки
+## Ринок вакансій і вектор розвитку
+ІТ-сфера є доволі молодою і дуже динамічною. Тому це накладає певні вимоги до самоосвіти.
+Для розуміння вектору розвитку і потреб ринку (локального і глобального), рекомендується використовувати [розділ роботи на DOU](https://jobs.dou.ua/) і вакансії на [UpWork](http://upwork.com/).
+Інформація, представлена на цих сайтах, дозволяє проаналізувати потрібність ринку у профільних спеціалістах, рівні заробітньої плати.
+При всьому цьому, треба відразу налаштовувати себе на працю на глобальному ринку, т.я. тенденції внутрішнього ринку здебільшого відзеркалюють зовнішні реалії з затримкою у часі.
 
-Після опанування курсу, для подальшої освіти, студентам рекомендовано: переважно розглядати курси з конкретних технологій.
+## Практичні навички
+При відсутності досвіду, початквіцям у ІТ-сфері доволі складно обрати спеціалізацію. Основною метою студента повинно бути працевлаштування, т.я. останні роки спостерігається уніфікація підходів у програмуванні і перекваліфікація можлива/вірогідніше всього буде у майбутньому.
 
-![Programming Landscape](assets/plscape.png?raw=true)
-- **Овали**: Поняття
-- **Парлелограми**: Технології
-- **Прямокутники**: Мови програмування
+Тут можна порадити спочатку вибрати сферу для входу на ринок і вивчити базовий стек
+ - HTML
+ - CSS
+ - JavaSript
 
-### Web
-
-#### Back-end
-
-##### node.js
-
-##### Ruby on Rails
-
-[Agile Development Using Ruby on Rails](https://www.edx.org/xseries/agile-development-using-ruby-rails)
-
-##### ASP.NET
-
-[Programming with C#](https://prod-edx-mktg-edit.edx.org/course/programming-c-microsoft-dev204x-2)
-
-#### Front-end
-
-##### Markup
-
-[Introduction to jQuery](https://www.edx.org/course/introduction-jquery-microsoft-dev208x-1)
-
-[Introduction to Bootstrap – A Tutorial](https://www.edx.org/course/introduction-bootstrap-tutorial-microsoft-dev203x-0)
-
-[JavaScript, HTML and CSS Web Development](https://www.edx.org/course/javascript-html-css-web-development-microsoft-dev211-1x)
-
-[Programming and the Web for Beginners](https://www.coursera.org/learn/duke-programming-web)
-
-[Intro to HTML and CSS](https://www.udacity.com/course/html5-game-development--cs255)
-
-[HTML5 Game Development](https://www.udacity.com/course/html5-game-development--cs255)
-
-[JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804)
-
-##### React.js
-
-[React.js Fundamentals](http://reactjsprogram.teachable.com/courses/reactjsfundamentals)
-
-##### Angular.js
-
-[Learn AngularJS 1.X](https://www.codecademy.com/learn/learn-angularjs)
-
-[Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
-
-### Mobile
-
-[Mobile Application Experiences Part 3: Building Mobile Apps](https://www.edx.org/course/mobile-application-experiences-part-3-mitx-21w-789-3x#!)
-
-#### Android
-
-[Developing Android Apps](https://www.udacity.com/course/developing-android-apps--ud853)
-
-[From Java to Android for Beginners](https://www.edx.org/xseries/java-android-beginners)
-
-[Begin Programming: Build Your First Mobile Game](https://www.edx.org/xseries/java-android-beginners)
-
-[Introduction to Mobile Application Development using Android](https://www.edx.org/course/introduction-mobile-application-hkustx-comp107x-0)
-
-#### iOS
-
-[Intro to iOS App Development with Swift](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)
-
-[Introduction To Swift Programming](https://www.coursera.org/learn/swift-programming)
-
-## Less comfortable
-
-Нажаль у курсу CS50 є недолік. Надзвичайно велика щільність матеріалу і висока складність завдань, навіть для ряду досвідчених ІТ-спеціалістів. Для того щоб кращє засвоїти або повторити базові концепції програмування, є ряд курсів що розглядають ці речі з їншої сторони, та в менш напруженному форматі.
-
-[Computer Science 101](https://www.coursera.org/course/cs101)
-
-[Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/)
-
-[An Introduction to Interactive Programming in Python](https://www.coursera.org/course/interactivepython1
-)
+Процес навчання повинен відбуватися з підходу практики. Гарним прикладом є сервіс [CodeCademy](https://www.codecademy.com/).
